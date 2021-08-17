@@ -1,2 +1,0 @@
-# Bank_Personal_Loan_Modelling
-Perform Exploratory Data Analysis finance bank loan Analysis, check if there is skewness in data or not, visualize Skewness by distribution, How Age of a person is going to be a factor in availing loan ? Does Income of a person have an impact on availing loan ? Does the family size makes them to avail loan. Number of persons in the family has significant impact on availing Personal Loan or not?
